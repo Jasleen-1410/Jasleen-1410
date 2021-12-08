@@ -22,12 +22,11 @@
 </a>
 
 <br/>
-<br/>
 
 
 <!-- - 🔭 I’m currently working on [Frontier](https://frontier.xyz/). -->
-- 🌱 I’m currently learning more about Flutter and Machine Learning.
 <!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
+- 🌱 I’m currently learning more about Flutter and Machine Learning.
 - 🤔 I’m looking for help with Flutter and ML documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [My Portfolio](https://jasleen-1410.github.io/my-portfolio-website/) 
