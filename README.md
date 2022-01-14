@@ -22,16 +22,17 @@
 </a>
 
 <br/>
+<br/>
 
-
-<!-- - 🔭 I’m currently working on [Frontier](https://frontier.xyz/). -->
-<!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
 - 🌱 I’m currently learning more about Flutter and Machine Learning.
 - 🤔 I’m looking for help with Flutter and ML documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [My Portfolio](https://jasleen-1410.github.io/my-portfolio-website/) 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I spend almost 9 hours working on my Laptop every day 🐣.
+- ⚡ Fun fact: I spend almost 8 hours working on my Laptop every day 🐣.
+
+<!-- - 🔭 I’m currently working on [Frontier](https://frontier.xyz/). -->
+<!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
 
 <!-- [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk) -->
 [![Linkedin: Jasleen Minhas](https://img.shields.io/badge/JasleenMinhas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasleen-minhas-ba78431b4/)](https://www.linkedin.com/in/jasleen-minhas-ba78431b4/)
@@ -42,6 +43,7 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
